@@ -89,17 +89,4 @@ Contributions are welcome!
 * Bug fixes, feature suggestions, and improvements are encouraged.
 * Please fork the repo, create a new branch, and submit a pull request.
 
----
 
-## License
-
-MIT License © 2025 Shloka Kamdar
-
-```
-
----
-
-
-
-Do you want me to do that too?
-```
